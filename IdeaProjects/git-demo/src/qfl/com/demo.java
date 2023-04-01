@@ -5,6 +5,7 @@ public class demo {
         System.out.print("first git test");
         System.out.print("Second commit");
         System.out.print("fix commit");
+        System.out.print("pull commit");
     }
 
 }
